@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+    cout<<"n"<<endl;
     cout<<"hello world"<<endl;
     return 0;
 }
