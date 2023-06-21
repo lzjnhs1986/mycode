@@ -14,5 +14,6 @@ int main()
     cout<<"n"<<endl;
     cout<<"hello world"<<endl;
 	cout<<"miya"<<endl;
+	cout<<"miya..."<<endl;
     return 0;
 }
